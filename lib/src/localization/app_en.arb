@@ -1,0 +1,6 @@
+{
+  "appTitle": "time_schedule",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
